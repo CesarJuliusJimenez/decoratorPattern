@@ -1,5 +1,5 @@
 package decoratorPattern;
-public class Cimb {
+public class CIMB {
 
     public static void main(String[] args) {
 
